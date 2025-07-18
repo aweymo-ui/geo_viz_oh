@@ -4,11 +4,11 @@ layout: page
 gallery: true
 ---
 
-{% include gallery-figure.html img="banner.gif" alt="Banner image with animation three different archival photos of Idaho wilderness" caption="Using Embodiment and Audio Narrative to Present Historical Research" title="Using Embodiment and Audio Narrative to Present Historical Research" %}
+{% include gallery-figure.html img="banner.png" alt="Banner image with the title of this presentation an image of the author and an image of a cassette tape overlaid with a topographical map." caption="Using Geographic Visualizations to Enrich Oral History Recordings" title="Using Geographic Visualizations to Enrich Oral History Recordings" %}
 
-- [slide deck](https://indd.adobe.com/view/3dcfaaed-a7ef-4666-a776-b59771135823){:target="_blank" rel="noopener"}
+- [slide deck](https://indd.adobe.com/view/1e4208e9-dcfa-453b-ac18-9aaba2420a3f){:target="_blank" rel="noopener"}
 
-A presentation created for Alyssa Kreikemeier’s HIST424 Environmental History course on using embodiment in field recording, interviewing and utilizing oral history recordings to restructure scholarly work to the audio narrative medium and enrich your research.
+Presentation for the 2025 Western Association of Map Libraries.
 
 {% include toc.html %}
 
