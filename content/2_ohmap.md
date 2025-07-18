@@ -42,7 +42,9 @@ I experimented with importing a path linking all placemarkers, but due to the co
     <p class="symbol">&#10042;</p>
 </div>
 
-{% include gallery-figure.html img="geo_viz_oh_30.gif" alt="Excerpt of Maurice Hornocker oral history visualization." caption="Excerpt of Maurice Hornocker oral history visualization." %}
+<br> 
+
+## [Maurice Hornocker Oral History Geographic Visualization](https://www.youtube.com/watch?v=EEFYBcwY4Bg)
 
 <br>
 
@@ -52,7 +54,11 @@ I selected the oral history excerpts that I felt uniquely adept at providing a s
     <p class="symbol">&#10042;</p>
 </div>
 
-{% include gallery-figure.html img="geo_viz_oh_33.gif" alt="Excerpt of Ed Krumpe oral history visualization." caption="Excerpt of Ed Krumpe oral history visualization." %}
+<br>
+
+## [Ed Krumpe Oral History Geographic Visualization](https://www.youtube.com/watch?v=eKYyentx7Nc)
+
+<br>
 
 In the second excerpt, Dr. Ed Krumpe describes the wilderness area’s history, beginning with modern landmarks, then smaller geographic features, and finally an Indigenous site excavated in 1983. The animation allowed me to use scale and movement to convey the remoteness and historical depth of the region as the recording begins with modern landmarks like the airstrip and the station, then moves to small geographic features like the neighboring creeks, scopes out to massive geological elements and finally to an ancient Indigenous site excavated by U of I archeological teams starting in 1983.
 
