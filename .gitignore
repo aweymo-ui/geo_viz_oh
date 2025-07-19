@@ -1,1 +1,5 @@
+# Ignore the generated _site directory
 _site/
+
+# Ignore macOS metadata files
+.DS_Store
