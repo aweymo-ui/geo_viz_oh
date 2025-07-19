@@ -97,3 +97,13 @@ My initial detachment from the physical landscape of the Taylor Wilderness Resea
 What began as an emergency digitization initiative evolved into a multifaceted digital collection that reflects both the scientific output and human dimension of Taylor Ranch. The project underscores the importance of intentional interpretation in digital initiatives, serving not only as a preservation effort but also as a model for how contextual layering can deepen the value and usability of digital archives.
 
 <br>
+
+## About the Author
+
+{% include alert.html text="Andrew Weymouth is the Digital Initiatives Librarian at University of Idaho, primarily focusing on static web design to curate the institution’s special collections and partner with faculty and graduate students on fellowship projects. He has also created digital scholarship projects for the universities of Oregon, Washington and the Tacoma Northwest Room archives, ranging from long form audio public history to architectural databases and network visualizations. He writes about labor, architecture, underrepresented communities and using digital scholarship methods to survey equity in archival collections." color="light" align="center" %}
+
+{% include button.html text="More Workshops from the Author" link="https://aweymo.github.io/base/" color="light" centered="true" %}
+
+
+<br>
+
