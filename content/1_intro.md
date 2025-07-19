@@ -18,7 +18,7 @@ The Taylor Wilderness Research Station, nestled in central Idaho’s Frank Churc
 
 <br>
 
-A few years ago, the Center for Digital Inquiry and Learning (CDIL) was contacted by station managers to digitize at-risk scientific papers and internal documents. In a separate project, CDIL Fellowship recipient and PhD candidate Jack Kredell visited people involved in the station’s management and maintenance to uncover “often-ignored social and experiential content behind scientific pursuit.”
+A few years ago, the [Center for Digital Inquiry and Learning](https://cdil.lib.uidaho.edu/) (CDIL) was contacted by station managers to digitize at-risk scientific papers and internal documents. In a separate project, CDIL Fellowship recipient and PhD candidate Jack Kredell visited people involved in the station’s management and maintenance to uncover “often-ignored social and experiential content behind scientific pursuit.”
 
 <br>
 

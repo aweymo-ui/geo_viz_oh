@@ -14,7 +14,7 @@ The idea to map the oral history recordings began during a meeting where I broug
 
 {% include gallery-figure.html img="geo_viz_oh_04.jpg" alt="Google Earth Studio interface, with timeline controls, playback and scene rendering functions." caption="Google Earth Studio interface, with timeline controls, playback and scene rendering functions." %}
 
-Google Earth Studio is essentially the creative suite version of Google Earth. The browser application is a “tool for animating geospatial information to create still and video content” that uses “the same imagery dataset and the same 3D rendering engine” but is equipped with controls to guide viewers through geographic data and export this media.
+[Google Earth Studio](https://www.google.com/earth/studio/faq/) is essentially the creative suite version of Google Earth. The browser application is a “tool for animating geospatial information to create still and video content” that uses “the same imagery dataset and the same 3D rendering engine” but is equipped with controls to guide viewers through geographic data and export this media.
 
 <br>
 
@@ -44,19 +44,15 @@ I experimented with importing a path linking all placemarkers, but due to the co
 
 <br> 
 
-## [Maurice Hornocker Oral History Geographic Visualization](https://www.youtube.com/watch?v=EEFYBcwY4Bg)
+{% include feature/video.html objectid="https://www.youtube.com/watch?v=EEFYBcwY4Bg" caption="Dr. Maurice Hornocker Oral History Geographic Visualization" %}
 
 <br>
 
 I selected the oral history excerpts that I felt uniquely adept at providing a sense of the amount of time that it takes to navigate the area on foot and discussed locations that not only had a geographic scale but a chronological one. In the first excerpt, wildlife researcher Dr. Maurice Hornocker recounts a four-day search for his colleague’s dog, Little Red. The emotional narrative demonstrates how far one could venture in the area before needing to come back to base. The multi-day structure of the story allowed me to experiment with time-of-day functionalities, another attribute you can manipulate in Google Earth Studio to visualize the rising and setting of the sun over days, months, or years. This adds a dynamic lighting component to the finished visualization and a more nuanced understanding of the environment they were navigating.
 
-<div class="symbol-container">
-    <p class="symbol">&#10042;</p>
-</div>
-
 <br>
 
-## [Ed Krumpe Oral History Geographic Visualization](https://www.youtube.com/watch?v=eKYyentx7Nc)
+{% include feature/video.html objectid="https://www.youtube.com/watch?v=eKYyentx7Nc" caption= "Dr. Ed Krumpe Oral History Geographic Visualization"%}
 
 <br>
 
@@ -66,13 +62,15 @@ In the second excerpt, Dr. Ed Krumpe describes the wilderness area’s history, 
 
 Another key element I needed to consider in the digital movement was legibility and, more broadly, not making the viewer physically sick. The challenge was to design something which splits the viewers focus between following the story audibly and the geography, visually but not overwhelm either sense. Ultimately, I found that slowing the movement as much as possible, shifting between a bird’s eye view (65°) and a high angle shot (45°) and stopping at the landmarks when they are mentioned for at least three seconds increased viewer comprehension and lowered any potential queasiness. 
 
+{% include gallery-figure.html img="tilt_1.gif" alt="Excerpt of visualization with camera doing a slow tilt upwards while facing the Taylor Wilderness Research Station in a valley." caption="Example of the slow vertical tilt on arriving at a destination to be legible while not remaining static." %}
+
 <br>
 
 During these intermittent pauses, I found that a slight, slow vertical tilt downward still kept the place names legible while making for a more visually dynamic shot than an unnatural and robotic freeze frame. A full 90° top down angle is used only once in the video to convey a sense of historical magnitude when discussing the Indigenous sites in the area.
 
 <br>
 
-The archive’s eventual publication in April 2025 coincided with the U of I’s Renfrew Colloquium with a panel discussing the collection, including Dr. Ed Krumpe as  a speaker, who noted the scale, speed and movement of the visualization recontextualizing his firsthand experience with “the sweat and blisters that it takes to move around in that… big, rough country.”
+The archive’s eventual publication in April 2025 coincided with the U of I’s [Renfrew Colloquium with a panel discussing the collection](https://www.youtube.com/watch?v=qMir-2KZMow), including Dr. Ed Krumpe as  a speaker, who noted the scale, speed and movement of the visualization recontextualizing his firsthand experience with “the sweat and blisters that it takes to move around in that… big, rough country.”
 
 <br>
 
