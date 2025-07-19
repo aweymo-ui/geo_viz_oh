@@ -42,7 +42,7 @@ Embedding the maps programmatically and tying the geographic data to the timesta
 
 <br>
 
-If we can integrate this geographic element into our OHD template, there are incredible opportunities to enhance audio and video archival resources. In the same way that these videos helped viewer comprehension of a remote area in the Taylor collection, many oral history collections would benefit from a clearer understanding of how distance shapes historical context. A project I’ve previously worked on documented the life of an “Alaskero,” a Filipino-American who worked in the Alaskan salmon canneries.26 Oral history recordings from similar migratory workers could be enhanced by visualizing the incredible distance that make up migratory circuits along Puyallup hop farms, lumber mills in Grays Harbor, and the canneries of Alaska. 
+If we can integrate this geographic element into our OHD template, there are incredible opportunities to enhance audio and video archival resources. In the same way that these videos helped viewer comprehension of a remote area in the Taylor collection, many oral history collections would benefit from a clearer understanding of how distance shapes historical context. A project I’ve previously worked on documented the life of an “Alaskero,” a Filipino-American who worked in the Alaskan salmon canneries. Oral history recordings from similar migratory workers could be enhanced by visualizing the incredible distance that make up migratory circuits along Puyallup hop farms, lumber mills in Grays Harbor, and the canneries of Alaska. 
 
 <div class="symbol-container">
     <p class="symbol">&#10042;</p>
@@ -52,7 +52,7 @@ If we can integrate this geographic element into our OHD template, there are inc
 
 <br>
 
-There’s also an opportunity to combine oral history and mapping to make new insights around environmental history. Another digital initiative I contributed to, highlighted and geolocated the expeditions of the Tacoma Mountaineers, a women’s back-to-the-land hiking organization that formed in 1906 and used their monumental summits to promote suffrage.27 Mapping these expeditions as their being recounted in oral history recordings and contrasting the environment as it was in photos taken by the Mountaineers to how they are now in 3D renderings could help make evident stark contrasts in urban development, environmental policy change, access to public lands and, in direct effect, the public’s inability to organize for political empowerment. 
+There’s also an opportunity to combine oral history and mapping to make new insights around environmental history. Another digital initiative I contributed to, highlighted and geolocated the expeditions of the Tacoma Mountaineers, a women’s back-to-the-land hiking organization that formed in 1906 and used their monumental summits to promote suffrage. Mapping these expeditions as their being recounted in oral history recordings and contrasting the environment as it was in photos taken by the Mountaineers to how they are now in 3D renderings could help make evident stark contrasts in urban development, environmental policy change, access to public lands and, in direct effect, the public’s inability to organize for political empowerment. 
 
 <div class="symbol-container">
     <p class="symbol">&#10042;</p>
@@ -66,7 +66,7 @@ Regarding corporate history and urban development, there may also be new insight
 
 <br>
 
-A more recent example of a map projecting real estate imagination rather than reflecting reality is discussed in Manissa M. Maharawal and Erin McElroy’s The Anti-Eviction Mapping Project: Counter Mapping and Oral History toward Bay Area Housing Justice, describing a map created by the “luxury apartment complex NEMA—located in the "Twitter Tax Break Zone," ….  which erased Chinatown and the largely working-class southern neighborhoods of the city, and renamed the Castro, a historically gay neighborhood, as Eureka Valley/Dolores Heights. The list of such real estate-driven neoliberal fantasy maps goes on…” (381) 28 Incorporating maps into oral history projects that incorporate both early aerial maps, these “fantasy maps” and present day geographies can help us understand the ways that these imaginings of the very few have become the reality for so many. 
+A more recent example of a map projecting real estate imagination rather than reflecting reality is discussed in Manissa M. Maharawal and Erin McElroy’s The Anti-Eviction Mapping Project: Counter Mapping and Oral History toward Bay Area Housing Justice, describing a map created by the “luxury apartment complex NEMA—located in the "Twitter Tax Break Zone," ….  which erased Chinatown and the largely working-class southern neighborhoods of the city, and renamed the Castro, a historically gay neighborhood, as Eureka Valley/Dolores Heights. The list of such real estate-driven neoliberal fantasy maps goes on…” Incorporating maps into oral history projects that incorporate both early aerial maps, these “fantasy maps” and present day geographies can help us understand the ways that these imaginings of the very few have become the reality for so many. 
 
 <div class="symbol-container">
     <p class="symbol">&#10042;</p>
