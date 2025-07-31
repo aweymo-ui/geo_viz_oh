@@ -16,11 +16,7 @@ The process I’ll be discussing has its origins in realizing a fundamental lack
 
 The Taylor Wilderness Research Station, nestled in central Idaho’s Frank Church-River of No Return Wilderness, has been a vital research hub since the University acquired it in 1970. Accessible only by plane or hiking, it supports wildlife surveys, rangeland monitoring, and climatology amid over two million acres of protected wilderness.
 
-<br>
-
 A few years ago, the [Center for Digital Inquiry and Learning](https://cdil.lib.uidaho.edu/) (CDIL) was contacted by station managers to digitize at-risk scientific papers and internal documents. In a separate project, CDIL Fellowship recipient and PhD candidate Jack Kredell visited people involved in the station’s management and maintenance to uncover “often-ignored social and experiential content behind scientific pursuit.”
-
-<br>
 
 The project, led by Devin Becker, Associate Dean of Research and Instruction, envisioned a collection combining these two resources. The goal was to provide access to all scientific research produced at the station, along with interpretive material to help visitors better understand its historic, human, and geographic context.
 
