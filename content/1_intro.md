@@ -6,7 +6,7 @@ gallery: true
 
 <br>
 
-The process I’ll be discussing has its origins in realizing a fundamental lack of understanding of the project I’d been working on for months. After transcribing hours of oral history material, processing thousands of research papers, and combing through metadata to create a digital collection on a natural science archive, I began to recognize a critical gap. My inability to grasp the area where all of the research was conducted obscured both my understanding of the material and my connection to the people conducting the research. I also realized that if I was struggling with this understanding, patrons and researchers using this digital resource would likely also feel this disconnection.
+The process I’ll be discussing has its origins in realizing a fundamental lack of understanding of the project I’d been working on for months. After transcribing hours of oral history material, processing many of research papers, and combing through metadata to create a digital collection on a natural science archive, I began to recognize a critical gap. My inability to grasp the area where all of the research was conducted obscured both my understanding of the material and my connection to the people conducting the research. I also realized that if I was struggling with this understanding, patrons and researchers using this digital resource would likely also feel this disconnection.
 
 <div class="symbol-container">
     <p class="symbol">&#10042;</p>

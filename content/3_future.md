@@ -10,11 +10,11 @@ gallery: true
 
 {% include gallery-figure.html img="geo_viz_oh_05.jpg" alt="Current Oral History as Data user interface" caption="Current Oral History as Data User Interface" %}
 
-The [Oral History as Data](https://oralhistoryasdata.github.io/) template that was used to host and visualize the Taylor recordings is powered by enriched data, in the form of CSV transcripts with start and end timestamps as well as tag fields along the rows where those subjects occur in the dialogue. 
+The [Oral History as Data](https://oralhistoryasdata.github.io/) template developed by the CDIL, which was used to host and visualize the Taylor recordings is powered by enriched data, in the form of CSV transcripts with start and end timestamps for each section of dialogue, as well as tag fields along the rows where those subjects are brought up in conversation. 
 
 {% include gallery-figure.html img="geo_viz_oh_02.jpg" alt="Oral History as Data user interface with timestamped geographic element, front and back end." caption="Oral History as Data user interface with timestamped geographic element, front and back end." %}
 
-It seems plausible to simply add a geographical coordinate field in the CSV on the line of dialogue where the location is mentioned, triggering a placemarker on a map displayed next to the transcript in the interface. These maps implement [Leaflet](https://leafletjs.com/examples.html), “an open-source JavaScript library for mobile-friendly interactive maps” that we currently use in all of our digital collections at U of I.
+It seems plausible to simply add a geographical coordinate field in the CSV on the line of dialogue where the location is mentioned, which triggers a placemarker on a map displayed next to the transcript in the interface. The maps that we use in the Oral History as Data and CollectionBuilder platforms are [Leaflet](https://leafletjs.com/examples.html), “an open-source JavaScript library for mobile-friendly interactive maps.” This would just be another smaller interface which follows the conversation of the oral history recording, as opposed to the map page, which is informed by the geographic metadata of the collection's items.
 
 <br>
 
@@ -24,7 +24,7 @@ It seems plausible to simply add a geographical coordinate field in the CSV on t
 
 <br>
 
-That said, Leaflet is a two dimensional, overhead map and one could argue that something is lost by not having the three dimensional context of the physical terrain. 
+That said, Leaflet is a two dimensional, overhead map and one could argue that something is lost by not having the three dimensional context of the physical terrain that we have in the two previous examples. 
 
 
 {% include gallery-figure.html img="geo_viz_oh_27.png" alt="Leaflet Height Graph for understanding terrain in two dimensional space." caption="Leaflet Height Graph for understanding terrain in two dimensional space." %}
@@ -32,7 +32,7 @@ That said, Leaflet is a two dimensional, overhead map and one could argue that s
 
 Potential solutions include using topographical Leaflet “skins” that visualize the elevation along the path of place markers alongside a traditional overhead map, such as [Height Graph](https://giscience.github.io/Leaflet.Heightgraph/) and the slightly more chaotic [Leaflet-Elevation.js.](https://raruto.github.io/leaflet-elevation/examples/leaflet-elevation_hoverable-tracks.html) For true 3D rendering, [CesiumJS](https://cesium.com/platform/cesiumjs/) and [Deck.gl](https://deck.gl/) are possible, non-proprietary alternatives to Google Earth Studio that can be embedded programmatically in JavaScript, just as we are with Leaflet. 
 
-Embedding the maps programmatically and tying the geographic data to the timestamps where they are mentioned means users can go backwards, forwards and repeat as needed in the transcript rather than the linear momentum of a standard media player. Allowing researchers to essentially scratch the record back and forth on these recordings, in concert with the geographical data or drop directly into visualized subject tags, moving beyond passive narrative engagement to interactive experimentation. William G. Thomas describes this ideal digital scholarship learning environment as one where “the reader can immerse him/herself in the past, surrounded with the evidence, and … build connections versus the narrative anticipation of what comes next.”
+Embedding the maps programmatically and tying the geographic data to the timestamps where they are mentioned means users can go backwards, forwards and repeat as needed in the transcript rather than the linear momentum of a standard media player. Allowing researchers to essentially scratch the record back and forth on these recordings, in concert with the geographical data or drop directly into visualized subject tags, moves beyond passive narrative engagement and into interactive experimentation with research materials. William G. Thomas describes this ideal digital scholarship learning environment as one where “the reader can immerse him/herself in the past, surrounded with the evidence, and … build connections versus the narrative anticipation of what comes next.”
 
 <br>
 
@@ -66,9 +66,9 @@ There’s also an opportunity to combine oral history and mapping to make new in
 
 <br>
 
-Regarding corporate history and urban development, there may also be new insights gleaned by comparing different geographic “skins” within the same map to add context to oral history recordings. These could be aerial photos arranged chronologically to understand change over time. These could also incorporate “marketing maps” created by boosters and real estate agents to attract potential investors. One example is a map titled Spokane Falls and Her Natural Resources, commissioned by investors for the 1890 Northwestern Industrial Exposition. Not only does the map not account for the Great Fire, which destroyed all of downtown Spokane less than a year earlier, it also depicts a tobacco plantation alongside the timber and hops resources, a crop that could never actually be maintained in the Palouse environment.
+Regarding corporate history and urban development, there may also be new insights gleaned by comparing different geographic “skins” within the same map to add context to oral history recordings. These could be aerial photos arranged chronologically to understand change over time. These could also incorporate “marketing maps” created by boosters and real estate agents to attract potential investors. One example is a map titled Spokane Falls and Her Natural Resources, commissioned by investors for the 1890 Northwestern Industrial Exposition. Not only does the map not account for the Great Fire, which destroyed most of downtown Spokane less than a year earlier, it also depicts a tobacco plantation alongside the timber and hops resources, a crop that could never actually be maintained in the Palouse environment invented in whole cloth to attract southern investors to the area.
 
-A more recent example of a map projecting real estate imagination rather than reflecting reality is discussed in Manissa M. Maharawal and Erin McElroy’s The Anti-Eviction Mapping Project: Counter Mapping and Oral History toward Bay Area Housing Justice, describing a map created by the “luxury apartment complex NEMA—located in the "Twitter Tax Break Zone," ….  which erased Chinatown and the largely working-class southern neighborhoods of the city, and renamed the Castro, a historically gay neighborhood, as Eureka Valley/Dolores Heights. The list of such real estate-driven neoliberal fantasy maps goes on…” Incorporating maps into oral history projects that incorporate both early aerial maps, these “fantasy maps” and present day geographies can help us understand the ways that these imaginings of the very few have become the reality for so many. 
+A more recent example of a map projecting real estate imagination rather than reflecting reality is discussed in Maharawal and McElroy’s _The Anti-Eviction Mapping Project_ from 2018, describing a map created by the “luxury apartment complex NEMA—located in the "Twitter Tax Break Zone," ….  which erased Chinatown and the largely working-class southern neighborhoods of the city, and renamed the Castro, a historically gay neighborhood, as Eureka Valley." Oral history projects that incorporate both early aerial maps, these “fantasy maps” and present day geographies can help us understand the ways that these imaginings of the very few may have become the reality for many. 
 
 <div class="symbol-container">
     <p class="symbol">&#10042;</p>
@@ -78,7 +78,7 @@ A more recent example of a map projecting real estate imagination rather than re
 
 <br>
 
-More abstractly, I believe there are fresh insights that could be understood by combining oral history recordings and mapping regarding memory studies. The methodology “argues that the so-called unreliability of memory is also its strength, and that the subjectivity of memory provides clues not only about the meanings of historical experience, but also about the relationships between past and present, between memory and personal identity and between individual and collective memory.” Mapping oral history allows historians to create a literal mind map, understanding the interviewees’ association of one place to another, with positive or negative sentiments or whether their feelings toward that place were shaped by societal narratives or personal experiences. 
+More abstractly, I believe there are fresh insights that could be understood by combining oral history recordings and mapping regarding memory studies. The methodology “argues that the so-called unreliability of memory is also its strength, and that the subjectivity of memory provides clues not only about the meanings of historical experience, but also about the relationships between past and present, between memory and personal identity and between individual and collective memory.” Mapping oral history allows historians to create a visualization of an interviewee's memory, understanding the their associations between one place to another, with positive or negative sentiments, and whether their feelings toward that place were shaped by societal narratives or personal experiences. 
 
 <br>
 
@@ -92,7 +92,7 @@ More abstractly, I believe there are fresh insights that could be understood by 
 
 <br>
 
-My initial detachment from the physical landscape of the Taylor Wilderness Research Station highlighted a broader challenge to people tasked with designing digital collections for public engagement: when digital collections are built without meaningful geographic or social context, both creators and users risk misunderstanding or overlooking the significance of the work. Integrating oral histories and geographic visualizations allowed users to not only contextualize the data but also connect with the lived experiences of the people who created that material.
+My initial detachment from the physical landscape of the Taylor Wilderness Research Station highlighted a broader challenge to people tasked with designing digital collections for public engagement: when digital collections are built without meaningful geographic context, both creators and users may risk misunderstanding or overlooking the significance of the work. 
 
 What began as an emergency digitization initiative evolved into a multifaceted digital collection that reflects both the scientific output and human dimension of Taylor Ranch. The project underscores the importance of intentional interpretation in digital initiatives, serving not only as a preservation effort but also as a model for how contextual layering can deepen the value and usability of digital archives.
 
